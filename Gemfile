@@ -55,3 +55,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "opentelemetry-sdk", "~> 1.6"
+gem "opentelemetry-instrumentation-all", "~> 0.71.0"
