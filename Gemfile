@@ -57,4 +57,4 @@ group :test do
 end
 
 gem "opentelemetry-sdk", "~> 1.6"
-gem "opentelemetry-instrumentation-all", "~> 0.71.0"
+gem "opentelemetry-instrumentation-all", "~> 0.71.1"
